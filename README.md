@@ -2,7 +2,7 @@
 
 ## About
 
-Korean FrameNet is a lexical database that has rich annotations to represent the meaning of text using semantic frames
+This is an implementation of unsupervised Korean word sense dismabiguation using CoreNet.
 
 ## Prerequisite
 * `python 3.5+`
